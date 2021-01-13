@@ -1,7 +1,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre
 
 💡 &nbsp;------------.\
 🎓 &nbsp;Atualmente estou estudando tecnólogo em Análise de Desevolvimento de Sistemas.\
@@ -19,7 +19,7 @@
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Análise
 
 <p align="center">
 <a href="https://github.com/AVS1508">
@@ -28,7 +28,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Entre em contato
 
   <p align="center">
   <a href="https://www.linkedin.com/in/ramonvasconcelos4285/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
