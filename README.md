@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;Sobre
 
 💡 &nbsp;------------------------------------------------------------------------------------------\
-🎓 &nbsp;Atualmente estou estudando tecnólogo em Análise de Desevolvimento de Sistemas.\
+🎓 &nbsp;Atualmente faço faculdade tecnólogo em Análise de Desevolvimento de Sistemas.\
 🌱 &nbsp;Quando eu tenho tempo, eu estudo Vuejs e Web Design.\
 
 
