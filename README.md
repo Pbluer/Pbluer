@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre
 
-💡 &nbsp;------------------------------------------------------------------------------------------\
+💡 &nbsp;Não me considero um programador, e sim um eterno aprendiz. \
 🎓 &nbsp;Atualmente faço faculdade tecnólogo em Análise de Desevolvimento de Sistemas.\
 🌱 &nbsp;Quando eu tenho tempo, eu estudo Vuejs e Web Design.\
 
