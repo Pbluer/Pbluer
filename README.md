@@ -5,7 +5,7 @@
 
 💡 &nbsp;Não me considero um programador, e sim um eterno aprendiz. \
 🎓 &nbsp;Atualmente faço faculdade tecnólogo em Análise e Desevolvimento de Sistemas.\
-🌱 &nbsp;Quando eu tenho tempo, eu estudo Vuejs e Web Design.\
+🌱 &nbsp;Quando eu tenho tempo, eu estudo Vuejs e Web Design. \
 
 
 ### 🛠 &nbsp;Tecnologias
