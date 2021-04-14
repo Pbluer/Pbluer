@@ -38,6 +38,6 @@
 
 ####
 
-<p style="displat:flex;justify-content:center">
+<p align="center">
   <img src="https://profile-counter.glitch.me/Pbluer/count.svg" alt="Contador" />
 </p>
