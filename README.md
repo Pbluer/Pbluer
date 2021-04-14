@@ -34,3 +34,10 @@
   <p align="center">
   <a href="https://www.linkedin.com/in/ramonvasconcelos4285/"><img src="https://img.shields.io/badge/-Ramon%20Vasconcelos-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
+
+
+####
+
+<p>
+  <img src="https://profile-counter.glitch.me/Pbluer/count.svg" alt="Contador" />
+</p>
